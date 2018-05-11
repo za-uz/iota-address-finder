@@ -122,7 +122,7 @@ Your new trimmed seed: VZ9SEED9HERE
 ```
 
 ```bash
-python address_finder.py -a http://localhost:14265 -s VZ9SEED9HERE -n 15 -lbi
+$ python address_finder.py -a http://localhost:14265 -s VZ9SEED9HERE -n 15 -lbi
 Fetching 15 addresses...
 Fetched addresses.
 Fetching balances...
